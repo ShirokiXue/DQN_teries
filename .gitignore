@@ -1,4 +1,4 @@
-*logs/
+*/logs/*
 *__init__.py
 
 # Byte-compiled / optimized / DLL files
